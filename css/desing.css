@@ -1,0 +1,64 @@
+/*SELECTOR*/
+.titulo_1{
+    color: green; /*CAMBIA DE COLOR EL TEXTO*/
+    
+    text-align: center; /*CENTRA EL TEXTO */
+    
+    font-size: 50xp; /*CAMBIA EL TAMAÑO DEL TEXTO */
+        
+    font-family: sans-serif; /*CAMBIA LA FUENTE DEL TEXTO*/
+    
+}
+
+
+.img_piña{
+    display: block;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    border: 1px solid yellow;
+    border-radius: 50px
+    
+}
+
+
+.parrafo_1{
+    color: white;
+    text-align: center;
+    text-decoration-line: underline;
+
+}
+
+
+.lista_1{
+    color: white;
+    text-decoration-color: black;
+    margin: 80px;
+    padding: 5px;
+}
+
+.lista_no_ordenada{
+    color: white;
+    text-decoration-color: black;
+    margin: 80px;
+    padding: 5px;
+}
+
+.link{
+    margin: 1100px;
+    padding: 10px;
+}
+
+.link2{
+    margin: 1100px;
+    padding: 10px;
+}
+
+.*{
+    background-color: chartreuse white;
+}
+
+
+
+
+
